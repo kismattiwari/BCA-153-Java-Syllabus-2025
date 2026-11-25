@@ -1,0 +1,21 @@
+public class ArithmeticOperators_11 {
+    public static void main(String[] args) {
+
+        int a = 20;
+        int b = 6;
+
+        System.out.println("a = " + a);
+        System.out.println("b = " + b);
+
+        // Arithmetic operators
+        System.out.println("Addition (+)       = " + (a + b));
+        System.out.println("Subtraction (-)    = " + (a - b));
+        System.out.println("Multiplication (*) = " + (a * b));
+        System.out.println("Division (/)       = " + (a / b));
+        System.out.println("Modulus (%)        = " + (a % b));
+
+        // Unary arithmetic operators
+        System.out.println("Increment (++)     = " + (++a));
+        System.out.println("Decrement (--)     = " + (--b));
+    }
+}
