@@ -1,4 +1,4 @@
-package java_bca_nepal;
+package Unit_3_Class_And_Objects;
 // copy constructor example
 public class Students {
     String name;

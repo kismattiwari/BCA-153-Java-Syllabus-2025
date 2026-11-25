@@ -1,4 +1,4 @@
-package java_bca_nepal;
+package Unit_3_Class_And_Objects;
 //this keyword example
 public class thiskey {
     String name; //instant variable
